@@ -40,16 +40,19 @@
   background-color: #333;
   font-size: 0.8em;
   color: white; }
-  .medium-editor-table-builder-toolbar span {
+
+.medium-editor-table-builder-toolbar span {
     width: 45px;
     display: block;
     float: left;
     margin-left: 5px; }
-  .medium-editor-table-builder-toolbar button {
+
+.medium-editor-table-builder-toolbar button {
     margin: 0 3px;
     background-color: #333;
     border: 0;
     width: 30px;
     cursor: pointer; }
-    .medium-editor-table-builder-toolbar button i {
+
+.medium-editor-table-builder-toolbar button i {
       color: white; }
